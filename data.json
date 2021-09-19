@@ -1,0 +1,74 @@
+[
+    {
+        "id":"0",
+        "title":"VERO LIE Red",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/red1.jpeg",
+        "description":"Solid Men Round Neck Maroon T-Shirt"
+    },
+    {
+        "id":"1",
+        "title":"VERO LIE Green",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/2.jpeg",
+        "description":"Striped Men Round Neck Green T-Shirt"
+    },
+    {
+        "id":"2",
+        "title":"COBIO MAN",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/3.jpeg",
+        "description":"Men Regular Fit Striped Spread Collar Casual Shirt"
+    },
+    {
+        "id":"3",
+        "title":"VERO LIE Yellow",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/4.jpeg",
+        "description":"Men Cotton Kurta (Yellow)"
+    },
+    {
+        "id":"4",
+        "title":"London Hills",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/5.jpeg",
+        "description":"Solid Men Round Neck (Pack of 2)        "
+    },
+    {
+        "id":"5",
+        "title":"Jhankhi",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/6.jpeg",
+        "description":"Women A-line Black Dress"
+    },
+    {
+        "id":"6",
+        "title":"Alfa Quilt",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/7.jpeg",
+        "description":"Premium Men Top Thermal"
+    },
+    {
+        "id":"7",
+        "title":"Headzup",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/8.jpeg",
+        "description":"Solid Men Round Neck Grey T-Shirt"
+    },
+    {
+        "id":"8",
+        "title":"Soul Space",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/9.jpeg",
+        "description":"Striped Men Round Neck Grey T-Shirt"
+    },
+    {
+        "id":"9",
+        "title":"Indi Hemp",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/10.jpeg",
+        "description":"Men Slim, Tailored, Regular Fit Solid Button Down Collar Casual Shirt"
+    },
+    {
+        "id":"10",
+        "title":"TRIPR",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/11.jpeg",
+        "description":"Printed Men Hooded Neck Black T-Shirt"
+    },
+    {
+        "id":"11",
+        "title":"Seven Rocks",
+        "image":"https://borderfree-challenge.s3.ap-south-1.amazonaws.com/12.jpeg",
+        "description":"Solid Men Mandarin Collar Maroon T-Shirt"
+    }
+]
