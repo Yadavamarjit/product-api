@@ -3,7 +3,7 @@ const app = express();
 const cors =require('cors')
 const {getProducts} =require('./dynamo')
 const config = require('./config/index')
-const port = config.app.port
+const port =config.app.port || 3000
 
 app.use(cors())
 app.get('/',(req,res)=>{
